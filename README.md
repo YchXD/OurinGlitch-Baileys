@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>OURIN BAILEYS</h1>
-  <img src="https://cdn.gimita.id/download/unnamed%20(14)_1770865450578_2b897c93.jpg" alt="Thumbnail" width='100%' />
+  <img src="https://files.catbox.moe/4n0efj.jpg" alt="Thumbnail" width='100%' />
 </div>
 
 <br>
